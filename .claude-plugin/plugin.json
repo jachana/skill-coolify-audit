@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coolify-audit",
+  "description": "Read-only audit of a Coolify instance — full resource inventory, env-var hygiene (plaintext secrets), exposed ports, and servers that need validation",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-coolify-audit",
+  "license": "MIT"
+}
